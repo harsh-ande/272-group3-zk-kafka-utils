@@ -5,4 +5,6 @@ Each developer can run the following command in their distributed-microblog gith
 
 ``$ git submodule add https://github.com/harsh-vardhan-ande/272-group3-zk-kafka-utils``
 
-This will create a folder inside `/server` whic contains the kafka and zookeeper utilities.
+This will create a folder inside `/server` which contains the kafka and zookeeper utilities.
+
+To update your repo with the lates code from this repo, run git pull from inside the folder created above.
